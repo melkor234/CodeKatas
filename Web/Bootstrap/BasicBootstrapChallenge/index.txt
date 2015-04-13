@@ -1,0 +1,18 @@
+Hello
+
+Instructions
+
+In this challenge, make the page as bootstrapped as possible. Create a row with three objects,
+as will be displayed below.
+
+-The first column will use a textbox with a bound "keyup" event to update the hheading with the 
+ new text I.E "Hello" + Name
+-The second column will require the object to fade in or out when the fade btn is clicked.
+-The third column will have the object slide in or out when the slide btn is clicked.
+-The default text for the Name text box must be declared in JS.
+-Use a logger function.
+
+
+Change name		Fade				Slide
+
+Name : 			Fadebtn				Slidebtn
